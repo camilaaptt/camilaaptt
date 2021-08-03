@@ -4,7 +4,7 @@
 👩🏽‍🔬↔👩🏽‍💻 Em transição de carreira<br>
 👩🏽‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (1/5)<br>
 👩🏽‍🚀 Aspirante a Desenvolvedora Front-end<br>
-✨Hobbies: música, séries, filmes, livros, família.
+✨Hobbies: música, séries, filmes, livros, família<br>
 📍 São Paulo, SP<br>
 
 ### Linguagens:
