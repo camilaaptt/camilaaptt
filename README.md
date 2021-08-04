@@ -5,7 +5,6 @@
 👩🏽‍🎓 Estudante de Análise e Desenvolvimento de Sistemas ⌛(1/5)<br>
 👩🏽‍🚀 Aspirante a Desenvolvedora Front-end<br>
 🎯 Objetivo: estágio na área de desenvolvimento Front-end ou vaga júnior<br>
-✨Hobbies: música, séries, filmes, livros, família<br>
 📍 São Paulo, SP<br>
 
 ### Linguagens:
