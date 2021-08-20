@@ -1,7 +1,7 @@
 ## Olá! Eu sou...
 
 👩 Camila Teixeira (Ela/Dela)<br>
-👩🏽‍🔬↔👩🏽‍💻 Em Transição de Carreira<br>
+👩🏽‍🔬🔁👩🏽‍💻 Em Transição de Carreira<br>
 👩🏽‍🎓 Estudante de Análise e Desenvolvimento de Sistemas ⌛(1/5)<br>
 👩🏽‍🚀 Aspirante a Desenvolvedora Front-end<br>
 🎯 Objetivo: estágio na área de desenvolvimento Front-end ou vaga júnior<br>
