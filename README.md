@@ -1,4 +1,4 @@
-## Hey! Camila Teixeira aqui 🙋
+## Hey! Camila Teixeira aqui 🙋🏻‍♀️
 
 👩🏽‍🎓 Estudante de Análise e Desenvolvimento de Sistemas ⌛(2/5)<br>
 🕵🏻‍♀️🐞 Analista de Testes Jr<br>
