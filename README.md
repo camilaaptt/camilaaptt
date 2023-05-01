@@ -1,18 +1,25 @@
-## Hey! Camila Teixeira aqui 🙋🏻‍♀️
+## _Olá! Eu sou a Camila_
+- 🕵🏻‍♀️🐞 Analista de Testes Jr
+- 🎓 Estudante de ADS
 
-👩🏽‍🎓 Estudante de Análise e Desenvolvimento de Sistemas ⌛(2/5)<br>
-🕵🏻‍♀️🐞 Analista de Testes Jr<br>
-📍 São Paulo, SP<br>
+### Formações:
+* [X] Júlio de Lima - Programa de Testes e Qualidade de Software - Turma 9
+* [X] Qa.Coders - Treinamento em Quality Assurance - Turma 9
+* [ ] EBAC - Profissão: Engenheiro de Qualidade de Software - Previsão de Conclusão: jul/2023
+* [ ] Júlio de Lima - Mentoria em Teste de Software - Turma 1 - Previsão de Conclusão: jul/2023
+* [ ] Ampli - Graduação em Análise e Desenvolvimento de Sistemas - Previsão de Conclusão: dez/2024
 
-### 🌟Linguagens:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilaaptt&show_icons=true&theme=jolly)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaptt&layout=compact&langs_count=16&theme=jolly)
- ### 🌟Entre em contato:
-<a href="https://www.linkedin.com/in/camila-teixeira-05826a132/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="mailto:camilaaptt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="https://www.instagram.com/camilaaptt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><br>
+### Certificações:
+<img src = 'https://media.badgr.com/uploads/badges/assertion-9y0-O7UVRo2IgZSaHsR6Ew.png' width='60'/>
 
+### Ferramentas:
+[![Ferramentas](https://devicons.dev.br/icons?icon=powershell,git,github,gitlab,docker,jenkins,vscode,idea,gherkin,selenium,postman,html,css,javascript,nodejs,java,mongodb,mysql&theme=dark)](https://devicons.dev.br/)
 
+### Contato:
+[![LinkedIn](https://devicons.dev.br/icons?icon=linkedin&theme=dark)](https://www.linkedin.com/pt/camilaaptt/)
 
-
-
-
-
+<div>
+<a href="https://github.com/camilaaptt/">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=camilaaptt&show_icons=true&theme=dracula"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaptt&layout=compact&langs_count=16&theme=dracula"/>
+</div>
