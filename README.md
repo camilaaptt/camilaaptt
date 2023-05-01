@@ -13,7 +13,11 @@
 <img src = 'https://media.badgr.com/uploads/badges/assertion-9y0-O7UVRo2IgZSaHsR6Ew.png' width='60'/>
 
 ### Ferramentas:
-[![Ferramentas](https://devicons.dev.br/icons?icon=powershell,git,github,gitlab,docker,jenkins,vscode,idea,gherkin,selenium,postman,html,css,javascript,nodejs,java,mongodb,mysql&theme=dark)](https://devicons.dev.br/)
+[![Ferramentas](https://devicons.dev.br/icons?icon=git,github,gitlab,docker,jenkins,vscode,idea&theme=dark)](https://devicons.dev.br/)<br>
+<img src = 'https://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png' width='50'/>
+[![Testes](https://devicons.dev.br/icons?icon=gherkin,selenium,postman&theme=dark)](https://devicons.dev.br/)<br>
+[![Linguagens](https://devicons.dev.br/icons?icon=html,css,javascript,nodejs,java&theme=dark)](https://devicons.dev.br/)<br>
+[![Banco de Dados](https://devicons.dev.br/icons?icon=mongodb,mysql&theme=dark)](https://devicons.dev.br/)
 
 ### Contato:
 [![LinkedIn](https://devicons.dev.br/icons?icon=linkedin&theme=dark)](https://www.linkedin.com/pt/camilaaptt/)
