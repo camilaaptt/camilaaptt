@@ -1,6 +1,8 @@
 ## _Olá! Eu sou a Camila_
-- 🕵🏻‍♀️🐞 Analista de Testes Jr
+- 👩🏻‍🔬 Farmacêutica que migrou para tecnologia após atuar dez anos na farmácia comunitária 
+- 🕵🏻‍♀️🐞 Analista de Testes Jr desde 2022
 - 🎓 Estudante de ADS
+- 👩🏻‍🚀 Aspirante a Engenheira de Qualidade de Software
 
 ### Formações:
 * [X] Júlio de Lima - Programa de Testes e Qualidade de Software - Turma 9
@@ -12,15 +14,16 @@
 ### Certificações:
 <img src = 'https://media.badgr.com/uploads/badges/assertion-9y0-O7UVRo2IgZSaHsR6Ew.png' width='60'/>
 
-### Ferramentas:
+### Ferramentas, Frameworks, Linguagens e Banco de Dados:
 [![Ferramentas](https://devicons.dev.br/icons?icon=git,github,gitlab,docker,jenkins,vscode,idea&theme=dark)](https://devicons.dev.br/)<br>
 <img src = 'https://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png' width='50'/>
-[![Testes](https://devicons.dev.br/icons?icon=gherkin,selenium,postman&theme=dark)](https://devicons.dev.br/)<br>
+[![Testes](https://devicons.dev.br/icons?icon=selenium,gherkin,postman&theme=dark)](https://devicons.dev.br/)
+<img src = 'https://jmeter.apache.org/images/jmeter_square.png' width='50'/><br>
 [![Linguagens](https://devicons.dev.br/icons?icon=html,css,javascript,nodejs,java&theme=dark)](https://devicons.dev.br/)<br>
-[![Banco de Dados](https://devicons.dev.br/icons?icon=mongodb,mysql&theme=dark)](https://devicons.dev.br/)
+[![Banco de Dados](https://devicons.dev.br/icons?icon=mysql,mongodb&theme=dark)](https://devicons.dev.br/)
 
 ### Contato:
-[![LinkedIn](https://devicons.dev.br/icons?icon=linkedin&theme=dark)](https://www.linkedin.com/pt/camilaaptt/)
+[![LinkedIn](https://devicons.dev.br/icons?icon=linkedin&theme=dark)](https://www.linkedin.com/in/camilaaptt/)
 
 <div>
 <a href="https://github.com/camilaaptt/">
