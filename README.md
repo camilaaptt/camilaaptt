@@ -1,15 +1,15 @@
 ## _Olá! Eu sou a Camila_
 - 👩🏻‍🔬 Farmacêutica que migrou para tecnologia após atuar dez anos na farmácia comunitária 
-- 🕵🏻‍♀️🐞 Analista de Testes Jr desde 2022
+- 🕵🏻‍♀️🐞 Analista de Testes Pleno desde 2022
 - 🎓 Estudante de ADS
-- 👩🏻‍🚀 Aspirante a Engenheira de Qualidade de Software
+- 👩🏻‍🚀 Aspirante a Engenheira de Software
 
 ### Formações:
 * [X] Júlio de Lima - Programa de Testes e Qualidade de Software - Turma 9
 * [X] Qa.Coders - Treinamento em Quality Assurance - Turma 9
 * [ ] EBAC - Profissão: Engenheiro de Qualidade de Software - Previsão de Conclusão: jul/2023
-* [ ] Júlio de Lima - Mentoria em Teste de Software - Turma 1 - Previsão de Conclusão: jul/2023
-* [ ] Ampli - Graduação em Análise e Desenvolvimento de Sistemas - Previsão de Conclusão: dez/2024
+* [X] Júlio de Lima - Mentoria em Teste de Software - Turma 1 - Previsão de Conclusão: jul/2023
+* [ ] Ampli - Graduação em Análise e Desenvolvimento de Sistemas - Previsão de Conclusão: jul/2025
 
 ### Certificações:
 <img src = 'https://media.badgr.com/uploads/badges/assertion-9y0-O7UVRo2IgZSaHsR6Ew.png' width='60'/>
